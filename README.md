@@ -1,4 +1,5 @@
 # Desafio de projeto sobre Git/Github da DIO
 
-Respositório criado para o desafio de projeto
+Página criada com o intúito de cumprir com o desafio do curso de Introdução ao Git e Github.
+Nesse desafio resolvi listar meus objetivos iniciais como programador.
 
